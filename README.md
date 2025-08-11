@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sonam Shakya</h1>
 <h3 align="center">Data Analyst | Feature Engineering Enthusiast | Turning raw logistics data into actionable insights</h3>
 
+<p align="center">
+  <a href="https://colab.research.google.com/drive/1VLf8Vt595siVnCaqdjUkl68x4UzVGzhl" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
+  </a>
+</p>
+
 ---
 
 ## 🚀 About the Project — Delhivery Feature Engineering
@@ -36,6 +42,7 @@ This repository contains my **Delhivery Feature Engineering** project, where I a
 <a href="https://matplotlib.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/></a>
 <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
 <a href="https://colab.research.google.com/"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" width="40" height="40"/></a>
+<a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/></a>
 </p>
 
 ---
