@@ -2,8 +2,8 @@
 <h3 align="center">Data Analyst | Feature Engineering Enthusiast | Turning raw logistics data into actionable insights</h3>
 
 <p align="center">
-  <a href="https://colab.research.google.com/drive/1VLf8Vt595siVnCaqdjUkl68x4UzVGzhl" target="_blank">
-    <img src="https://colab.research.google.com/drive/1VLf8Vt595siVnCaqdjUkl68x4UzVGzhl?usp=sharing" alt="Open in Colab"/>
+  <a href="https://colab.research.google.com/drive/1VLf8Vt595siVnCaqdjUkl68x4UzVGzhl?usp=sharing" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
   </a>
 </p>
 
